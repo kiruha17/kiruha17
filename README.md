@@ -1,16 +1,16 @@
 ## Hi there 👋
 I'm a Computer Science student at the University of Toronto, I'm mostly interested in software development, particularly game development.
 
-## Currently learning 📖
+## 📖 Currently learning 📖
 - UX & UI design
 - Database design
 - Web development
 
-## Currently working on 🏗️
+## 🏗️ Currently working on 🏗️
 - Re:View, a website for tracking anime/manga.
 - PlainJisho, a minimalistic Japanese to English dictionary.
 
-## Skills / Languages 🛠️
+## 🛠️ Skills / Languages 🛠️
 - Python
 - C
 - Java
