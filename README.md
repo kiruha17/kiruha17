@@ -7,8 +7,6 @@ I'm a Computer Science student at the University of Toronto, I'm mostly interest
 - Web development
 
 ## 🏗️ Currently working on 🏗️
-- Re:View, a website for tracking anime/manga.
-- PlainJisho, a minimalistic Japanese to English dictionary.
 
 ## 🛠️ Skills / Languages 🛠️
 - Python
